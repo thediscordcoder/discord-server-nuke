@@ -30,3 +30,18 @@ The bot will begin running and any message in the discord server will start the 
 
 
 It is most effective when you type messages into every channel possible to get the bot spamming everyone in more than one channel
+
+
+
+
+Future updates and version info
+
+v1: normal spammer
+
+v2: adds admin roles to everyone who types in the chat
+
+v3: rapidly deletes and creates new channels
+
+v4: randomizes its nickname so it becomes hard to ban (and possibly everyone elses)
+
+v5: fixes, improvements
