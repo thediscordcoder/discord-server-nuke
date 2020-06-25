@@ -32,9 +32,9 @@ The bot will begin running and any message in the discord server will start the 
 It is most effective when you type messages into every channel possible to get the bot spamming everyone in more than one channel
 
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-Future updates and version info
+Future updates and version info:
 
 v1: normal spammer
 
