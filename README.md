@@ -1,3 +1,4 @@
+V2 WAS WORKING EALRIER BUT NOW IT IS NOT AND I AM SO ANGRYYYYYYYYYYY (its in developement so better to use v1)
 # discord-server-nuke
 destroyer of discord servers
 
