@@ -31,6 +31,8 @@ The bot will begin running and any message in the discord server will start the 
 
 It is most effective when you type messages into every channel possible to get the bot spamming everyone in more than one channel
 
+feel free to submit suggestions and improvements in the issues section!
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
