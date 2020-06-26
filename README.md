@@ -42,8 +42,8 @@ v1: normal spammer
 
 v2: adds admin roles to everyone who types in the chat
 
-v3: rapidly deletes and creates new channels
+v3: changes the nicknames of those who type in the chat (including the bot) to random letters, making it harder to be kicked
 
-v4: randomizes its nickname so it becomes hard to ban (and possibly everyone elses)
+v4: rapidly deletes and creates new channels
 
 v5: fixes, improvements
