@@ -1,4 +1,4 @@
-V2 WAS WORKING EALRIER BUT NOW IT IS NOT AND I AM SO ANGRYYYYYYYYYYY (its in developement so better to use v1)
+
 # discord-server-nuke
 destroyer of discord servers
 
@@ -31,6 +31,8 @@ The bot will begin running and any message in the discord server will start the 
 
 
 It is most effective when you type messages into every channel possible to get the bot spamming everyone in more than one channel
+
+It may not work if the bot gets reported or you are banned from the discord developer api
 
 feel free to submit suggestions and improvements in the issues section!
 
