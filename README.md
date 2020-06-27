@@ -45,6 +45,8 @@ v1: normal spammer
 
 v2: adds admin roles to everyone who types in the chat
 
+v2.1: instantly revokes any bans given while the bot is still running (so you can join back right away)
+
 v3: changes the nicknames of those who type in the chat (including the bot) to random letters, making it harder to be kicked
 
 v4: rapidly deletes and creates new channels
