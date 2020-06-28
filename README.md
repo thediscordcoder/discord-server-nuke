@@ -39,3 +39,15 @@ It may not work if the bot gets reported (in this case, just make a new bot) or 
 ALWAYS GET THE NEWEST VERSION OF THE BOT CODE IF POSSIBLE
 
 feel free to submit suggestions and improvements in the issues section!
+
+~~~~~
+EPIC FEATURES
+-Spam-messages any channel that a message is sent in
+-Spams admin logs
+-Gives anyone who sends a message an admin role (super chaotic)
+-Spam-creates roles until it reaches max (250)
+-Spam-creates text channels until it reaches max (500)
+-Changes its nickname and other users nicknames to random letters rapidly, making it exponentially harder to kick the bot
+-Unbans anyone who gets banned
+-Sends an invite to anyone who gets kicked
+-Deletes all original text channels that people send messages in
