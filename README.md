@@ -53,4 +53,4 @@ v3: changes the nicknames of those who type in the chat (including the bot) to r
 
 v4: rapidly deletes and creates new channels
 
-v5: fixes, improvements
+v5: PLEASE I NEED MORE SUGGESTIONS FOR v5 AND OTHER FUTURE UPDATES!!!!!
