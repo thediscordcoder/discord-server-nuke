@@ -2,6 +2,8 @@
 # discord-server-nuke
 destroyer of discord servers
 
+HOW TO USE (for dumbasses):
+
 First, download the .py file, make sure you have the modules installed.
 
 
@@ -23,7 +25,7 @@ If you don't have invite privileges, you can still give the link to a server own
 If the server owner/admin is dumb enough, they will add the bot to the server
 
 
-When you are ready, type this into the command line: (replace filename with the files name)
+When you are ready, type this into the command line (replace filename with the files name):
 
 python3 filename.py
 
@@ -43,7 +45,7 @@ Future updates and version info:
 
 v1: normal spammer
 
-v2: adds admin roles to everyone who types in the chat
+v2: adds admin roles to everyone who types in the chat (also spams log)
 
 v2.1: instantly revokes any bans given while the bot is still running (so you can join back right away)
 
