@@ -49,5 +49,5 @@ EPIC FEATURES
 -Spam-creates text channels until it reaches max (500)
 -Changes its nickname and other users nicknames to random letters rapidly, making it exponentially harder to kick the bot
 -Unbans anyone who gets banned
--Sends an invite to anyone who gets kicked
+-Sends an invite to anyone who gets kicked/banned
 -Deletes all original text channels that people send messages in
