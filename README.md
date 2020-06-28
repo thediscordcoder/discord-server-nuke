@@ -34,23 +34,8 @@ The bot will begin running and any message in the discord server will start the 
 
 It is most effective when you type messages into every channel possible to get the bot spamming everyone in more than one channel
 
-It may not work if the bot gets reported or you are banned from the discord developer api
+It may not work if the bot gets reported (in this case, just make a new bot) or you are banned from the discord developer api
+
+ALWAYS GET THE NEWEST VERSION OF THE BOT CODE IF POSSIBLE
 
 feel free to submit suggestions and improvements in the issues section!
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Future updates and version info:
-
-v1: normal spammer
-
-v2: adds admin roles to everyone who types in the chat (also spams log)
-
-v2.1: instantly revokes any bans given while the bot is still running (so you can join back right away)
-
-v3: changes the nicknames of those who type in the chat (including the bot) to random letters, making it harder to be kicked
-
-v4: rapidly deletes and creates new channels
-
-v5: PLEASE I NEED MORE SUGGESTIONS FOR v5 AND OTHER FUTURE UPDATES!!!!!
