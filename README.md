@@ -52,9 +52,13 @@ EPIC FEATURES
 -Deletes all original text channels that people send messages in
 ~~~~~
 EXTRA INSTRUCTIONS FOR SELFBOTS:
+
 IF YOU ARE USING THE SELFBOT FOR 1 USER ONLY YOU NEED TO FIND YOUR USER ID USING INSPECT ELEMENT ON A COMPUTER
+
 IF YOU ARE USING THE SELFBOT FOR MULTIPLE ACCOUNT SPAM DOWNLOAD THE .zip AND PUT ALL OF YOUR TOKENS IN tokens.txt - IT SHOULD LIKE LIKE THIS WITH A TOKEN ON EACH LINE:
 
 njnognsobneoiwr.gsrhwrhghe-srnrhwrhwrh
+
 ewhteghtegrgrgwg.gwrhwrhrwh-gwrjyrytqegeh
+
 fewrhwhwrhrw.grwhwrgwegh-ewheththegdg
