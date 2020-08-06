@@ -2,6 +2,8 @@
 # discord-server-nuke
 destroyer of discord servers
 
+btw a lot of this shit is against the ToS
+
 HOW TO USE (for dumbasses):
 
 First, download the .py file, make sure you have the modules installed.
