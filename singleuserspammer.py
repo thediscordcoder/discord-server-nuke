@@ -25,6 +25,7 @@ async def on_member_ban(guild,user):
 
 @client.event
 async def on_message(message):
+    time.sleep(0.7)
     x=100
     while int(x)==100:
         print("message sent "+random.choice(string.ascii_letters))
