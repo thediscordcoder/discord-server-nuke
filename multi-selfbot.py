@@ -39,7 +39,7 @@ def randomletters(length):
     return ''.join(random.choice(letters) for i in range(length))
 
 time.sleep(2)
-response=input("type what you want the bots to spam here: ")
+messagesend=input("type what you want the bots to spam here: ")
 
 with open("tokens.txt", "r") as f:
     tokens = f.read().splitlines()
@@ -56,7 +56,7 @@ class multibot(commands.Cog):
             asyncio.sleep(0.7)
             print("sending message "+random.choice(string.ascii_letters))
             try:
-                await ctx.send(response)
+                await ctx.send(messagesend)
             except:
                 print("message error")
                 pass
