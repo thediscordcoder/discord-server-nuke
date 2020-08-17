@@ -52,7 +52,6 @@ class multibot(commands.Cog):
     async def raidtime(self,ctx):
         x=0
         for x in range(0,int(messagecount)):
-            print(client.user.name)
             asyncio.sleep(0.7)
             print("sending message "+random.choice(string.ascii_letters))
             try:
