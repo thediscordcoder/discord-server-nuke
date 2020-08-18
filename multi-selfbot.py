@@ -16,7 +16,7 @@ failed = 0
 with open("tokens.txt", "r") as f:
     tokens = f.read().splitlines()
     for token in tokens:
-        headers = {"Content-Type": "application/json", # added headers, help with auth?
+        headers = {"Content-Type": "application/json", 
                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11",
                    "Authorization" : token}
 
