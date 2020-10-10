@@ -70,4 +70,4 @@ fewrhwhwrhrw.grwhwrgwegh-ewheththegdg
 
 
 
-ALSO, tokenfilter.py IS MEANT TO BE RUN IN THE SAME FILE AS tokens.txt AND IT DELETES ALL OF THE INVALID ONES
+ALSO, tokenfilter.py IS MEANT TO BE RUN IN THE SAME DIRECTORY AS tokens.txt AND IT DELETES ALL OF THE INVALID ONES
