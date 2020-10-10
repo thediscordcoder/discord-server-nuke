@@ -4,7 +4,7 @@ destroyer of discord servers
 
 btw a lot of this shit is against the ToS
 
-HOW TO USE (for dumbasses):
+HOW TO USE spambotv9.py (for dumbasses):
 
 First, download the .py file, make sure you have the modules installed.
 
@@ -53,11 +53,11 @@ EPIC FEATURES
 -Unbans anyone who gets banned
 -Deletes all original text channels that people send messages in
 ~~~~~
-EXTRA INSTRUCTIONS FOR SELFBOTS:
+INSTRUCTIONS FOR SELFBOTS (for retarded skids who can barely read this):
 
-IF YOU ARE USING THE SELFBOT FOR 1 USER ONLY YOU NEED TO FIND YOUR USER ID USING INSPECT ELEMENT ON A COMPUTER
+IF YOU ARE USING singleuserspammer.py JUST PUT THE TOKEN IN THE FILE
 
-IF YOU ARE USING THE SELFBOT FOR MULTIPLE ACCOUNT SPAM YOU MUST CREATE A FILE IN THE SAME DIRECTORY CALLED tokens.txt - IT SHOULD LIKE LIKE THIS WITH A TOKEN ON EACH LINE:
+IF YOU ARE USING multi-selfbot.py YOU MUST CREATE A FILE IN THE SAME DIRECTORY CALLED tokens.txt - IT SHOULD LIKE LIKE THIS WITH A TOKEN ON EACH LINE:
 
 njnognsobneoiwr.gsrhwrhghe-srnrhwrhwrh
 
