@@ -1,5 +1,9 @@
 
 # discord-server-nuke
+BEFORE YOU GET PISSED AT ME:
+I created this using debian 10. I have heard it does not work too well on windows. From what I have heard, it just doesn't do anything. 
+However, in the future I will be creating a much better and faster gui raiding tool that can be used on windows. 
+
 destroyer of discord servers
 
 btw a lot of this shit is against the ToS
